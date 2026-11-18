@@ -50,5 +50,3 @@ Future topics include:
 ## Purpose
 
 This repository serves as a record of my progress in C programming, data structure implementation, and algorithm studies.
-
-My goal is to strengthen my understanding of fundamental computer science concepts through hands-on implementation.
