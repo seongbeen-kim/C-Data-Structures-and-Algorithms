@@ -1,41 +1,52 @@
 # C Study
 
-This repository contains my C programming practice, data structures, and algorithms.
+A collection of C programming implementations focused on **data structures, algorithms, and memory management**.
 
-## Roadmap
+## Overview
 
+This repository documents my study of fundamental data structures and algorithms using C.
+
+The primary focus is on understanding how data structures work internally, implementing them from scratch, and improving problem-solving skills.
+
+## Topics
+
+### C Programming Fundamentals
 - Arrays
-- Pointers
 - Structures
-- Dynamic Memory
+- Dynamic Memory Allocation
 - Recursion
-- Multi-file Projects
+
+### Data Structures
 - Linked Lists
-- Stack
-- Queue
-- Deque
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+- Stacks
+- Queues
+- Deques
+- Trees
+
+### Algorithms
+- Sorting Algorithms
 - Binary Search
-- Tree
-- Binary Search Tree
-- Heap
-- Hash Table
-- Adjacency Matrix
-- Adjacency List
+
+## Learning Roadmap
+
+Future topics include:
+
+- Binary Search Trees
+- Heaps and Hash Tables
+- Graph Representations
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
-- Shortest Path
-- Greedy Algorithm
-- Divide and Conquer
-- Dynamic Programming (DP)
-- Mini Projects
+- Shortest Path Algorithms
+- Greedy Algorithms
+- Dynamic Programming
 
 ## Development Environment
 
-- Visual Studio Code
-- GCC (MinGW-w64)
-- Git
-- GitHub
+- **Language:** C
+- **Editor:** Visual Studio Code
+- **Compiler:** GCC (MinGW-w64)
+- **Version Control:** Git & GitHub
+
+## Purpose
+
+This repository serves as a record of my progress in C programming, data structure implementation, and algorithm studies.
